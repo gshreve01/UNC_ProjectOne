@@ -1,0 +1,9 @@
+install
+
+unseclect stackbuilder
+
+password
+BtCampI#04!20
+
+
+port: 5432
